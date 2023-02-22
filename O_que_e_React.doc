@@ -1,0 +1,16 @@
+    O QUE É REACT?
+
+  - React é uma biblioteca javaScript para desenvolvimento de aplicações front-end;
+  - A categoria delas é SPA (single Page Application)
+  - podemos criar uma aplicação com React, ou inserir em um projeto já em andamento;
+  - A sua Arquitetura é baseada em componentes;
+  - É mantido pelo facebbok/meta.
+
+   ESTRUTURA BASE DO REACT
+
+  - Há algumas pastas e arquivos muito importantes;
+  - node_modules: dependências do projeto;
+  - public: assets e arquivos estáticos
+  - src: onde escrevemos o código da aplicação;
+  - src/index.js: arquivo de inicialização da aplicação;
+  - src/App.js: componente principal inicial(pode ser modificado)
